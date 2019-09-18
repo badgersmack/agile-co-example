@@ -6,7 +6,7 @@
 
 ## What does that really mean? What are the implications for our daily business? Let's analyze this principle and see where this gets us.
 
-> "Simplicity" - As already mentioned in the principle, we talk about "the art of maximizing the amount of work not done". Always think about unnecessary tasks in your todo list. Think about requirements no one needs fulfilled to do her job. Think about methods, classes, and your software design in general - you will find various things to be skipped as they do not contribute to your sprint goal or acceptance tests.
+"Simplicity" - As already mentioned in the principle, we talk about "the art of maximizing the amount of work not done". Always think about unnecessary tasks in your todo list. Think about requirements no one needs fulfilled to do her job. Think about methods, classes, and your software design in general - you will find various things to be skipped as they do not contribute to your sprint goal or acceptance tests.
 
 Values: Focus, Simplicity
 Principles: Limit Work in Progress, Decide as late as possible, Self-Similarity, Opportunity, Eliminate Waste
